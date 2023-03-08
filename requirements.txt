@@ -1,0 +1,8 @@
+dash==2.7.1
+dash_bootstrap_components==1.2.1
+gspread==5.7.2
+numpy==1.23.5
+numpy_financial==1.0.0
+pandas==1.5.2
+gunicorn
+dash-tools
